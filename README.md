@@ -13,6 +13,10 @@ Wealth Syncは、個人の資産を簡単に管理・追跡できる資産管理
 - **資産実績管理画面**: 
   - 各資産の月ごとの目標金額を表示し、実績の入力をサポート
 
+## 構成
+- /frontend - フロントエンドコード（TypeScript、React、Next.js）
+- /backend - バックエンドコード（Ruby、Ruby on Rails、GraphQL）
+
 ## 技術スタック
 - フロントエンド: TypeScript, React, Next.js
 - バックエンド: Ruby, Ruby on Rails, GraphQL
